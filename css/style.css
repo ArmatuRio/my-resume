@@ -31,7 +31,7 @@ body {
 .my-foto {
   display: flex;
   margin: 0 auto;
-  border-radius: 50%;
+/*   border-radius: 50%; */
 }
 
 .sidebar-my-photo {
